@@ -15,4 +15,4 @@ layout: default
 [Download Here (AU)!]()
 
 ### Bug Report
-Discovered a bug in simiclysm? Please don't hesitate to email: volstngaming@gmail.com. All input is appreciated!
+Discovered a bug in Cube Shrink? Please don't hesitate to email: volstngaming@gmail.com. All input is appreciated!
